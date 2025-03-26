@@ -28,7 +28,7 @@ Bonus round: ethical hacking & CTFs 🕵️‍♀️
 - 🌐 [Portfolio (coming soon)](#)
 - 🐙 [GitHub](https://github.com/BuildWithEsha)
 - 💼 [LinkedIn](https://linkedin.com/in/esha-codeandchaos)
-- 📚 [Blog](#)(https://codewithesha.hashnode.dev)
+- 📚 [Blog](#https://codewithesha.hashnode.dev)
 
 ---
 
