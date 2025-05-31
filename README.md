@@ -11,13 +11,6 @@ Also slowly exploring the magical world of **cybersecurity** 🔐
 
 ---
 
-### 🌱 What I’m Working On:
-- Rebuilding my projects with custom backend
-- Blogging my dev journey at [Code & Chaos](#) (writing in progress!)
-- Finally building on my own — and not looking back 😤
-
----
-
 ### 💻 Tech I’m Currently Learning:
 HTML • CSS • JavaScript • React • Tailwind CSS • Firebase • Python (baby steps)  
 Bonus round: ethical hacking & CTFs 🕵️‍♀️
