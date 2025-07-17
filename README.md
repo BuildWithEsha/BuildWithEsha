@@ -53,7 +53,3 @@ You can find my recent work here on GitHub, ranging from small experiments to co
 
 ---
 
-> <span style="color:#bfa2db;"><i>"They say that the best blaze burns brightest when circumstances are at their worst."</i></span>  
-> <span style="color:#bfa2db;">— Howl’s Moving Castle</span>
-
----
